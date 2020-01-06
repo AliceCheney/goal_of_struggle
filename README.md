@@ -1,24 +1,4 @@
-# goal_of_struggle
+## 目标定制跟踪更新项目
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+www.cshujie.com/goal
+![演示图](https://github.com/AliceCheney/goal_of_struggle/tree/master/public/goal1.png)
